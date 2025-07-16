@@ -24,7 +24,7 @@ We explore hidden patterns in Netflix shows and movies using different types of 
 
 ## How to Run
 1. Clone this repository:
-2. 2. Open the Jupyter Notebook file.
+2. Open the Jupyter Notebook file.
 3. Run all the cells one by one.
 4. Explore the generated graphs and charts.
 
