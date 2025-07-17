@@ -10,6 +10,7 @@ We explore hidden patterns in Netflix shows and movies using different types of 
 - Scatter Plots
 
 Features
+
 --> Genre Distribution Visualization  
 --> Release Year Trends  
 --> Content Rating Analysis  
